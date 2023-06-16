@@ -1,0 +1,4 @@
+30 60 0
+FXF--FF--FF
+F FF
+X --FXF++FXF++FXF--
